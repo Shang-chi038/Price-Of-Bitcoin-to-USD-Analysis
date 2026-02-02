@@ -1,0 +1,4 @@
+.env
+/trial
+fetch_bitcoin_prices copy.ipynb
+*.txt
