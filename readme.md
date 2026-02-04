@@ -42,7 +42,6 @@ After aggregating daily price averages and analyzing monthly performance over a 
 > ![Monthly Price Trends](plot/high_price_frequency.png)
 > A bar chart showing the frequency of each month appearing in the "Highest Price" category with November topping the chart.*
 
-
 ---
 
 ## 💡 Business Recommendations for Bitnob
@@ -71,5 +70,7 @@ Based on the volatility and volume correlation associated with these price movem
 * **External Factors:** This model relies on historical seasonality and does not yet account for "Black Swan" events or macroeconomic shifts (e.g., halving cycles).
 
 ---
+
 ## What I learnt
+
 I apologize that this work is coming late, I was looking for perfction rather than working tool. But now, i have learnt that your product should first work before it is perfect.
